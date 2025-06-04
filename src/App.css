@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+}
+
+.nav-wrapper{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.nav-wrapper ul{
+    list-style-type:none;
+    display: flex;
+}
+.nav-wrapper ul li {
+    margin: 6px;
+}
