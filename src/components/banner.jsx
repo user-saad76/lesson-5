@@ -1,10 +1,10 @@
 
-import Banner from '../assets/tech-img.webp'
+import banner from '../assets/tech-img.webp'
 
 
 export function Banner() {
     return ( <div>
-        <img src={Banner} alt="" />
+        <img src={banner} alt="" />
     </div>)
         
 }
