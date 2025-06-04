@@ -3,7 +3,7 @@ export function Navbar() {
     <div className="nav-wrapper">
         <ul>
             <li><a>Home</a></li>
-            <li><a>About</a></li>
+            <li><a>ABOUT</a></li>
             <li><a href="">Service</a></li>
             <li><a href="">Contect</a></li>
             <li><a href="">Reach us</a></li>
